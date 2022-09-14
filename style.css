@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap');
+
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+nav {
+    background: #181818;
+    display: flex;
+    height: 80px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 50px 0 100px;
+    flex-wrap: wrap;
+    -webkit-box-shadow: 2.5px 8px 20px 3px #545454;
+    -moz-box-shadow: 2.5px 8px 20px 3px #545454;
+    box-shadow: 2.5px 8px 20px 3px #545454;
+}
+
+nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+nav ul li {
+    margin: 0 5px;
+}
+
+nav ul li a {
+    color: #f2f2f2;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 15px;
+    border-radius: 5px;
+    letter-spacing: 1px;
+}
+
+nav ul li a:hover {
+    background: none;
+    color: #6db9ff;
+}
+
+.container {
+    background: #181818;
+    width: 500px;
+    height: 100px;
+    margin: 0 auto;
+    margin-top: 350px;
+    -webkit-box-shadow: 5px 11px 10px -5px #545454;
+    -moz-box-shadow: 5px 11px 10px -5px #545454;
+    box-shadow: 5px 11px 10px -5px #545454;
+    text-align: center;
+    border-radius: 20px;
+
+}
+
+#btn {
+    font-size: 2rem;
+    font-family: 'Inter', sans-serif ;
+    border-radius: 10px;
+}
+
+#btn:hover {
+    background: #6db9ff
+}
+
+h4 {
+    color: #f2f2f2;
+}
+
+h2 {
+    color: #f2f2f2;
+    
+}
