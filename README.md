@@ -4,7 +4,7 @@
 
 >Gerador de cor
 
-Color flipper é um gerador de cores aleatórias em cores simples, no modo simples. Ou mais aletatória e complexa no modo hex.
+Color flipper é um gerador de cores aleatórias. Em cores simples, no modo simples. Ou mais aletatória e complexa no modo hex.
 
 [Click aqui para acessar!](https://color-flipper-sable-one.vercel.app/)
 
