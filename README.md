@@ -2,7 +2,7 @@
 
 ![Previw](preview.jpg)
 
->Gewrador de cor
+>Gerador de cor
 
 Color flipper é um gerador de cores aleatórias em cores simples, no modo simples. Ou mais aletatória e complexa no modo hex.
 
